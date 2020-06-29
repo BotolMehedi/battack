@@ -6,13 +6,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-TEAM--VVIRUS-blue?style=flat-square&logo=facebook)](https://www.facebook.com/groups/231747098048450) 
 [![IYoutube](https://img.shields.io/badge/YOUTUBE-%40mastertrick1-red?style=flat-square&logo=youtube)](https://www.youtube.com/mastertrick1)
 
-
-[![Github](https://img.shields.io/badge/Github-BOTOL--MEHEDI-green?style=flat-square&logo=github)](https://github.com/botolmehedi)
-
-[![IYoutube](https://img.shields.io/badge/YOUTUBE-%40mastertrick1-red?style=flat-square&logo=youtube)](https://www.youtube.com/mastertrick1)
-
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger)](https://www.facebook.com/groups/231747098048450)
-
 ***
 
 # About BATTACK
