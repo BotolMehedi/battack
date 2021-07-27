@@ -39,7 +39,7 @@ $ ls
 $ python2 battack.py
 
 > EXAMPLES OF SMS BOMBING
-    
+
 $ botol --tool SMS --target +8801711111111 --timeout 10 --threads 50
 ```
 
@@ -55,7 +55,7 @@ $ botol --tool SMS --target +8801711111111 --timeout 10 --threads 50
 > python2 battack.py
 
 NOW WORKING WITHOUT ANY PROBLEM :-)
-```  
+```
 ## VIDEO TUTORIAL & PASSWORD
 [![Watch the video](https://img.youtube.com/vi/QGdi1ZzG1sY/maxresdefault.jpg)](https://youtu.be/QGdi1ZzG1sY)
 
