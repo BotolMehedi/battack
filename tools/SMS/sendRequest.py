@@ -57,7 +57,7 @@ class Service:
             }.items():
             payload = payload.replace(old, new)
         return (json.loads(payload), dataType)
-    
+
     # Send message
     def sendMessage(self, phone):
         url = self.service["url"]
@@ -105,7 +105,7 @@ class Service:
             else:
                 #print(r.text)
                 print("\033[1;33m"+"[!]"+"\033[0m" + " " + error)
-            
+
             return r.status_code
 
         except (requests.exceptions.ReadTimeout, requests.exceptions.ConnectTimeout):
