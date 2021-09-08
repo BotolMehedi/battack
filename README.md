@@ -10,6 +10,12 @@
 ```
 BATTACK is a python based Toolkit. This is a set of tools to provide denial of service attacks. BATTACK is a SMS Bombing Toolkit. This tool works on both rooted Android device and Non-rooted Android device.
 ```
+---
+<span style="color:red">**WARNING**</span>
+
+For Educational Purposes Only. Use Responsibly.
+
+---
 
 ## Installation :
 ```
